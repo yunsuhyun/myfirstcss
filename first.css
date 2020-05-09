@@ -1,0 +1,24 @@
+html,
+body {
+    height 100%;
+    font-family:"Open Sans", sans-serif;
+    color:rgb(160, 146, 209);
+}
+
+h1 {
+    font-size:70px;
+}
+
+h2 {
+    font-size:36px;
+}
+
+p {
+    font: size 13px;
+    color:black;
+    line-height: 2;
+}
+
+img {
+    max-width: 100%;
+}
